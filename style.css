@@ -1,0 +1,36 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+a:link {
+  color:antiquewhite;
+}
+ul   {
+  list-style: none;
+}
+
+li {
+  display:inline-block;
+  background-color: lightpink;
+  padding:1em ;
+}
+
+li:hover {
+  background-color: hotpink;
+
+}
+
+h4 {
+  color:dimgrey;
+}
+
+h2 {
+  color:dimgrey;
+}
+
+h1 {
+  font-family: "catamaran";
+}
+p {
+  width:50%;
+}
